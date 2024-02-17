@@ -6,4 +6,6 @@ Original files taken from keycloak-themes-23.0.6.jar
 
 ## Preview
 
-![preview](/preview.png)
+![preview](/previews/preview.png)
+
+![preview-mobile](/previews/preview-mobile.png)
