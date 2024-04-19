@@ -630,7 +630,7 @@ ul#kc-totp-supported-apps {
 }
 
 .pf-c-button {
-    border-radius: 8px;
+    border-radius: 4px;
     font-size: 14px;
     font-weight: bold;
     padding: 10px;
@@ -652,7 +652,7 @@ ul#kc-totp-supported-apps {
 .card-pf {
     border: none;
     box-shadow: 0 16px 16px 0 rgb(0 0 0 / 20%), 0 0 16px 0 rgb(0 0 0 / 10%);
-    border-radius: 16px;
+    border-radius: 4px;
     padding: 40px 40px !important;
 }
 
