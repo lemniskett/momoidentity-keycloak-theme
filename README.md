@@ -1,4 +1,4 @@
-# Mplus Login Theme
+# MomoIdentity Login Theme
 
 Overrides are located in ./momoidentity-keycloak/login/resources/css/login.css
 
